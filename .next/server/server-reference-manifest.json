@@ -1,0 +1,134 @@
+{
+  "node": {
+    "2072686f8f7aedec6a36afdf72dfcb144e706e30": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/products/[handle]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/collections/[handle]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/store/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "rsc",
+        "app/[countryCode]/(main)/products/[handle]/page": "rsc",
+        "app/[countryCode]/(main)/collections/[handle]/page": "rsc",
+        "app/[countryCode]/(main)/store/page": "rsc",
+        "app/[countryCode]/(main)/search/page": "rsc"
+      }
+    },
+    "55a903608fd27626c3ee3006545a71a1bbc8e3a6": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/products/[handle]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/collections/[handle]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/store/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "rsc",
+        "app/[countryCode]/(main)/products/[handle]/page": "rsc",
+        "app/[countryCode]/(main)/collections/[handle]/page": "rsc",
+        "app/[countryCode]/(main)/store/page": "rsc",
+        "app/[countryCode]/(main)/search/page": "rsc"
+      }
+    },
+    "9fdc97a152466085fc2e4736b05a2b054924e757": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/products/[handle]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/collections/[handle]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/store/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "rsc",
+        "app/[countryCode]/(main)/products/[handle]/page": "rsc",
+        "app/[countryCode]/(main)/collections/[handle]/page": "rsc",
+        "app/[countryCode]/(main)/store/page": "rsc",
+        "app/[countryCode]/(main)/search/page": "rsc"
+      }
+    },
+    "d0a500abd7f15481a65917d91024ae1faccb1357": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/products/[handle]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/collections/[handle]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/store/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "rsc",
+        "app/[countryCode]/(main)/products/[handle]/page": "rsc",
+        "app/[countryCode]/(main)/collections/[handle]/page": "rsc",
+        "app/[countryCode]/(main)/store/page": "rsc",
+        "app/[countryCode]/(main)/search/page": "rsc"
+      }
+    },
+    "d8abbd7beac67bcd2ff9c6b72b760b33ea912d11": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/products/[handle]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/collections/[handle]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/store/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "rsc",
+        "app/[countryCode]/(main)/products/[handle]/page": "rsc",
+        "app/[countryCode]/(main)/collections/[handle]/page": "rsc",
+        "app/[countryCode]/(main)/store/page": "rsc",
+        "app/[countryCode]/(main)/search/page": "rsc"
+      }
+    },
+    "eef53bd7ec6fe3e96c42e38f98bb33233ee91cec": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/products/[handle]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/collections/[handle]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/store/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!",
+        "app/[countryCode]/(main)/search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22enrichLineItems%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "rsc",
+        "app/[countryCode]/(main)/products/[handle]/page": "rsc",
+        "app/[countryCode]/(main)/collections/[handle]/page": "rsc",
+        "app/[countryCode]/(main)/store/page": "rsc",
+        "app/[countryCode]/(main)/search/page": "rsc"
+      }
+    },
+    "37f04875976e779f431630718752031edb5cb1eb": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22updateRegion%22%2C%22resetOnboardingState%22%5D%5D%5D&__client_imported__=true!",
+        "app/[countryCode]/(main)/products/[handle]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22updateRegion%22%2C%22resetOnboardingState%22%5D%5D%5D&__client_imported__=true!",
+        "app/[countryCode]/(main)/collections/[handle]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22updateRegion%22%2C%22resetOnboardingState%22%5D%5D%5D&__client_imported__=true!",
+        "app/[countryCode]/(main)/store/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22updateRegion%22%2C%22resetOnboardingState%22%5D%5D%5D&__client_imported__=true!",
+        "app/[countryCode]/(main)/search/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22updateRegion%22%2C%22resetOnboardingState%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "action-browser",
+        "app/[countryCode]/(main)/products/[handle]/page": "action-browser",
+        "app/[countryCode]/(main)/collections/[handle]/page": "action-browser",
+        "app/[countryCode]/(main)/store/page": "action-browser",
+        "app/[countryCode]/(main)/search/page": "action-browser"
+      }
+    },
+    "89b43f7f87f5988dcb3ea85a307e0176001f9231": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22updateRegion%22%2C%22resetOnboardingState%22%5D%5D%5D&__client_imported__=true!",
+        "app/[countryCode]/(main)/products/[handle]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22updateRegion%22%2C%22resetOnboardingState%22%5D%5D%5D&__client_imported__=true!",
+        "app/[countryCode]/(main)/collections/[handle]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22updateRegion%22%2C%22resetOnboardingState%22%5D%5D%5D&__client_imported__=true!",
+        "app/[countryCode]/(main)/store/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22updateRegion%22%2C%22resetOnboardingState%22%5D%5D%5D&__client_imported__=true!",
+        "app/[countryCode]/(main)/search/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CSeper%5C%5CDesktop%5C%5Csturiel%5C%5Csturielstore-storefront%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22updateRegion%22%2C%22resetOnboardingState%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "action-browser",
+        "app/[countryCode]/(main)/products/[handle]/page": "action-browser",
+        "app/[countryCode]/(main)/collections/[handle]/page": "action-browser",
+        "app/[countryCode]/(main)/store/page": "action-browser",
+        "app/[countryCode]/(main)/search/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "iMiTrl0hC+wtF35jRBe/XVf/Q7NNfV7fGYalwjUXKNI="
+}
